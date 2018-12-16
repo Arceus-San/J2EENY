@@ -6,6 +6,6 @@
         </session-timeout>
     </session-config>
     <welcome-file-list>
-        <welcome-file>ProjetJ2EE</welcome-file>
+        <welcome-file>LoginController</welcome-file>
     </welcome-file-list>
 </web-app>
